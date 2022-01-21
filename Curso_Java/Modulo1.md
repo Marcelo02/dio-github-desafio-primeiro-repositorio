@@ -10,7 +10,8 @@
 **Necesário instalar Linux (WSL) para replicação de conceito e eventual revisita à aula** 
 
 ## - Aula 2:
-*Ainda não inicada*
+-Falou sobre conceitos do ecossistema de Java.
+-Prefiro me familiarizar com a IDE e antes de ir pra linguagem.
 
 
 ## Links úteis
